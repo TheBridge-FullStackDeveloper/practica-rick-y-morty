@@ -1,0 +1,13 @@
+.hide{
+    display: none;
+}
+nav{
+    background-color: aliceblue;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+span{
+    cursor: pointer;
+    color: rgb(158, 122, 128);
+}
